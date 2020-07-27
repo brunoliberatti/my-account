@@ -15,8 +15,7 @@ import NewsletterBox from '../Profile/NewsletterBox'
 
 export const headerConfig = {
   namespace: 'vtex-account__profile',
-  titleId: 'pages.profile',
-  hideBackButton: true,
+  titleId: 'pages.profile'
 }
 
 class ProfileContainer extends Component<Props> {
